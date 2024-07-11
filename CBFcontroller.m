@@ -1,3 +1,5 @@
+% Author: Jiyoung Hwang (hjy8918@yonsei.ac.kr)
+
 classdef CBFcontroller
     % CBFCONTROLLER Class
     
