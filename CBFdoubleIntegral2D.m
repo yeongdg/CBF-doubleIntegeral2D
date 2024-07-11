@@ -1,3 +1,5 @@
+% Author: Jiyoung Hwang (hjy8918@yonsei.ac.kr)
+
 classdef CBFdoubleIntegral2D < CBFcontroller
     methods
         function obj = CBFdoubleIntegral2D(params, u_des)
