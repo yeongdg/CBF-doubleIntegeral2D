@@ -1,3 +1,5 @@
+% Author: Jiyoung Hwang (hjy8918@yonsei.ac.kr)
+
 % doubleIntegeral2D_main.m
 close all;
 clear all;
